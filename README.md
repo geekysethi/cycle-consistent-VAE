@@ -10,12 +10,21 @@ Official Code Repo - [Github](https://github.com/ananyahjha93/cycle-consistent-v
 
 ### Forward Cycle
 
-![image info](images/architecture_1.png)
+
+<p align="center">
+  <img  src="images/architecture_1.png">
+</p>
+
+
 
 
 ### Reverse Cycle
 
-![image info](images/architecture.png)
+
+<p align="center">
+  <img  src="images/architecture.png">
+</p>
+
 
 
 ## Installation
@@ -61,16 +70,26 @@ For training prediction based specified and unspecified  use  `main_prediction.p
 ![image info](images/vae_training.png)
 
 #### Style transfer output
-![image info](images/style_transfer.png)
+
+<p align="center">
+  <img  src="images/style_transfer.png">
+</p>
+
 
 #### Linear Interpolation
-![image info](images/linear_interpolation.png)
+
+<p align="center">
+  <img  src="images/linear_interpolation.png">
+</p>
+
 
 
 ### Classifier Model Training
 
-![image info](images/classifier.png)
 
+<p align="center">
+  <img  src="images/classifier.png">
+</p>
 
 <!-- ### Prediction Model Training
 
